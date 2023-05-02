@@ -6,3 +6,7 @@
 - Navigate to Tools -> Boards Manager and type pico to the search field and install RaspBerry Pi Pico/RP2040.
 - Navigate to Tools -> Board -> RaspBerry Pi Pico/RP2040 -> Waveshare RP2040 LCD 1.28
 ```
+### Example code by Waveshare
+```
+- https://www.waveshare.com/w/upload/9/9d/RP2040-LCD-1.28.zip
+```
