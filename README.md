@@ -1,4 +1,4 @@
-### Arduiono IDE dev environment setup for Waveshare RP2040 LCD 1.28
+### Arduino IDE dev environment setup for Waveshare RP2040 LCD 1.28
 ```
 - Download and install Arduino IDE from https://www.arduino.cc/en/software
 - Navigate to File -> Preferences and paste https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json 
